@@ -1,1 +1,2 @@
 Hello there, i am from local mac os
+Made REMOTE CHANGE, then I'll do git pull
